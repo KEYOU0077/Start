@@ -31,6 +31,6 @@ catch(Exception e){
 
 
 // TODO: File information can also be manipulated
-DateTime dt = new dt DateTime(2020, 7, 1);
+/*DateTime dt = new dt DateTime(2020, 7, 1);
 File.SetCreationTime(filename, dt);
-Console.WriteLine(File.GetCreationTime(filename));
+Console.WriteLine(File.GetCreationTime(filename));*/
